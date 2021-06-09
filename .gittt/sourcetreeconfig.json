@@ -1,0 +1,36 @@
+{
+  "$id": "25",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2021-06-09T16:49:25.9872136-05:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 1,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "Branches",
+    "Remotes",
+    "Remotes/origin",
+    "Stashes"
+  ],
+  "SidebarWidth": 258.0,
+  "SubtreeLinks": [],
+  "NeedsLargeFilesPull": false,
+  "RemoteProjectLinks": [
+    {
+      "$id": "26",
+      "BaseUrl": "https://github.com",
+      "Identifier": "ErickRosasMendoza/ProyectoFinal",
+      "RemoteName": "origin",
+      "Type": 0,
+      "Username": "megatromps@gmail.com",
+      "CloneUrl": null,
+      "ProjectUrl": null,
+      "AccountId": "",
+      "AvatarUrl": null,
+      "DisplayName": "origin: https://github.com"
+    }
+  ]
+}
