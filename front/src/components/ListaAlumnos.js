@@ -53,8 +53,6 @@ render() {
                         <td className="table_lista">{alumno.boleta}</td> 
                         <td className="table_lista">{alumno.programaAcademico}</td>
                         <td><Link to={'/admin/DirectorioArchivosAlumno/' + alumno.idAlumno} id="btn_watch">Ver Archivos</Link></td>
-                        <td><BorrarAlumno
-                        id = {alumno.idAlumno}/></td>
                     </tr>
                 </tbody>
                 )
